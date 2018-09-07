@@ -144,6 +144,7 @@ set(engine_SRCS # Except main.cpp.
     src/infill/SpaghettiInfillPathGenerator.cpp
     src/infill/SquareSubdiv.cpp
     src/infill/SubDivCube.cpp
+    src/infill/TopSkinDensityProvider.cpp
 
     src/pathPlanning/Comb.cpp
     src/pathPlanning/GCodePath.cpp
